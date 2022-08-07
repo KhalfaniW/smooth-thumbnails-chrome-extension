@@ -1,0 +1,1 @@
+/home/khalfani/Projects/smooth-thumbnails-extension/src/pages/Popup/dist/index.js
