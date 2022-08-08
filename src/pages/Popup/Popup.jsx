@@ -40,8 +40,11 @@ const Popup = () => {
     <div className="App">
       <label>
         <span>Toggle Thumbnail Blur</span>
-        <br />
-        <Switch checked={shouldBlurThumbnails} onChange={toggleAppAndUpdateState} />
+        <br /> <br />
+        <Switch
+          checked={shouldBlurThumbnails}
+          onChange={toggleAppAndUpdateState}
+        />
       </label>
     </div>
   );
